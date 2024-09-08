@@ -1,0 +1,3 @@
+void omar(){
+  print("welcome");
+}
